@@ -27,4 +27,4 @@
 
 ## 🔥 Contribuições
 
-![Contribuições](https://github.com/JulioCesarXY/PyGames/raw/main/contributions.svg)
+![Contribuições](https://github.com/JulioCesarXY/BaseCamp/raw/main/contributions.svg)
