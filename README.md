@@ -1,19 +1,17 @@
 ## Contato
 
 <div style="display: flex; align-items: center; gap: 20px;">
+  <!-- Bluesky -->
   <a href="https://bsky.app/profile/julio-cesar.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bluesky/bluesky-original.svg" alt="Bluesky" width="40" height="40"/>
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/bluesky.svg" alt="Bluesky" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/juliocesar.xy" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
-  </a>
+  <!-- X (Twitter) -->
   <a href="https://x.com/genesis_x66" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="X" width="40" height="40"/>
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/x.svg" alt="X" width="40" height="40"/>
   </a>
 </div>
 
 ---
-
 
 
 
