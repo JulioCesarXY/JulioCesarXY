@@ -17,7 +17,7 @@
 
 
 
-### Principais Tecnologias
+### main languages
 
 | Python | JavaScript | TypeScript | Solidity |
 |--------|------------|------------|----------|
