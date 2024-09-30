@@ -2,7 +2,7 @@
 
 ![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulioCesarXY&show_icons=true&theme=radical)
 
-## Contatos
+## Connect with me
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <!-- Bluesky -->
