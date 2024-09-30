@@ -1,4 +1,8 @@
-## Contato
+
+
+![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulioCesarXY&show_icons=true&theme=synthwave)
+
+## Contatos
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <!-- Bluesky -->
@@ -14,7 +18,6 @@
 ---
 
 
-
 ## Linguagens de Programação
 
 ### Principais Tecnologias:
@@ -24,14 +27,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </div>
 
----
-
-## Linguagens mais usadas
-
-| Linguagem     | Proporção   |
-|---------------|-------------|
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python       | ![40%](https://progress-bar.dev/40?width=200&color=blue) |
-| ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) JavaScript  | ![35%](https://progress-bar.dev/35?width=200&color=yellow) |
-| ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript  | ![25%](https://progress-bar.dev/25?width=200&color=purple) |
-
----
