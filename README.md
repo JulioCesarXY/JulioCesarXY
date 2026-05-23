@@ -2,26 +2,36 @@
 
 
 
-![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=JulioCesarXY&show_icons=true&theme=radical)
+---
 
-## Connect with me
+### 💻 Minhas Especialidades & Tecnologias
 
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Bluesky -->
-  <a href="https://bsky.app/profile/julio-cesar.com" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/bluesky.svg" alt="Bluesky" width="40" height="40"/>
-  </a>
-  <!-- X (Twitter) -->
-  <a href="https://x.com/genesis_x66" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/x.svg" alt="X" width="40" height="40"/>
-  </a>
-</div>
+* **Backend & Automação:** Python (Web Scraping, Manipulação de Dados, Integração de APIs)
+* **Frontend:** Next.js, React, Tailwind CSS, HLS.js
+* **DevOps & CI/CD:** GitHub Actions, Configuração de VPS, Tailscale, NextDNS
+* **Outros Interesses:** Infraestrutura de IPTV (M3U, XMLTV/EPG), Automação de Pipelines de Dados
 
+---
 
+### ⚙️ No que tenho trabalhado atualmente
 
-### main languages
+- **Automação de EPG/XMLTV:** Scripts em Python rodando via GitHub Actions para consolidar e validar guias de programação automaticamente.
+- **Interfaces Web:** Desenvolvimento de players de mídia modernos e otimizados utilizando Next.js e Tailwind CSS.
+- **Infraestrutura Pessoal:** Configuração de servidores Linux e redes privadas seguras.
 
-| Python | JavaScript | TypeScript | Solidity |
-|--------|------------|------------|----------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/> |
+---
 
+### 🛠️ Ferramentas e Tecnologias
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+### 📫 Como me encontrar
+* **GitHub:** [JulioCesarXY](https://github.com/JulioCesarXY)
+
+*"Transformando ideias lógicas em automações eficientes."* 🚀
