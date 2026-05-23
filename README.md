@@ -31,7 +31,3 @@
 
 ---
 
-### 📫 Como me encontrar
-* **GitHub:** [JulioCesarXY](https://github.com/JulioCesarXY)
-
-*"Transformando ideias lógicas em automações eficientes."* 🚀
